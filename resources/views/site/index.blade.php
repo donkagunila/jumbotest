@@ -85,7 +85,7 @@
 
                 <!-- Text -->
                 <p class="text-muted mb-5">
-                  Cozy vibes are out and this summer you should focus on making customer's feel brave.
+                  where quality meets deadlines to get a desired product
                 </p>
                 
                 <!-- Meta -->
@@ -175,7 +175,7 @@
 
                 <!-- Text -->
                 <p class="text-muted mb-5">
-                  Cozy vibes are out and this summer you should focus on making customer's feel brave.
+                  where quality meets deadlines to get a desired product
                 </p>
                 
                 <!-- Meta -->

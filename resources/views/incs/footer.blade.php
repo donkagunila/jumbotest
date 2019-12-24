@@ -141,7 +141,7 @@
           <div class="col-md-12">
             <hr class="copyright-hr">
             <div class="mb-0">
-              <p class="copyright text-white">
+              <p class="copyright text-muted">
                 &copy Jambo Group of Companies, 2019
               </p>
             </div>

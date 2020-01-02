@@ -4,7 +4,7 @@
 
 @section('contents')
 
-  ================================================== -->
+ 
     <section>
       <div class="flickity-button-white flickity-button-inset" data-flickity='{"imagesLoaded": true, "wrapAround": true, "pageDots": false}'>
         <div class="w-100">

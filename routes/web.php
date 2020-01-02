@@ -13,3 +13,4 @@
 
 
 Route::get('/', 'SiteController@index')->name('index');
+Route::get('/about', 'SiteController@about');

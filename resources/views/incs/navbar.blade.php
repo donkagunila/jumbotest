@@ -1,6 +1,7 @@
+ <div class="topnav"></div>
  <!-- NAVBAR
     ================================================== -->
-    <nav class="navbar navbar-expand-lg fixed-top navbar-light bg-white">
+    <nav class="navbar navbar-expand-lg navbar-togglable fixed-top navbar-dark">
 
     	<div class="container">
       
